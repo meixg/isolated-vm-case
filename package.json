@@ -1,0 +1,26 @@
+{
+  "name": "isolated-vm-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meixg/isolated-vm-case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meixg/isolated-vm-case/issues"
+  },
+  "homepage": "https://github.com/meixg/isolated-vm-case#readme",
+  "dependencies": {
+    "@baidu/isolate-worker": "0.0.0-beta.15",
+    "highlight.js": "^11.8.0",
+    "isolated-vm": "^4.4.2",
+    "marked": "^4.3.0"
+  }
+}
